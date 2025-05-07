@@ -58,7 +58,7 @@ const proyectos = [
     {
         Titulo: "Curriculum Vitae",
         Descripción: "Datos profesionales, acadamecos y personales",
-        link: "https://github.com/jorgar/tienda/blob/master/uploads/vitae.pdf",
+        link: "https://github.com/jorgar/tienda/blob/master/uploads/CURR%C3%8DCULUM%20VITAE%202025.2.pdf",
         imagen: "./img/CV.jpg",
         Tecnologias: ["Documento Profesional,"]
     }
