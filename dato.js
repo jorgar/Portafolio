@@ -1,16 +1,16 @@
 const proyectos = [
     {
-        Titulo: "Sistema de Ventas",
-        Descripción: "Una plataforma de venta en Línea, teniendo como objetivo el deporte ciclístico",
-        link: "https://jorgar.github.io/Carrito-Compra/",
+        Titulo: "Tienda de Bicicletas en Línea",
+        Descripción: "Una plataforma de bicicletas, el objetivo principal es la venta de distintas líneas de bicicletas profesionales.",
+        link: "https://jorgar.github.io/plataforma-bicicletas/",
         imagen: "./img/portada.webp",
-        Tecnologias: ["javaScript,", "DOM,", "HTML,", "CSS,",]
+        Tecnologias: ["javaScript,", "HTML,", "CSS,",]
     },
     {
-        Titulo: "Calculadora en React",
-        Descripción: "Basado en el lenguaje de programación REACT, hace uso de componentes y de una libreria llamada MATHJS, para hacer más agíl las operaciones",
-        link: "https://jorgar.github.io/calculadora-basica/",
-        imagen: "./img/calcu2.jpg",
+        Titulo: "Tienda de Libros",
+        Descripción: "La plataforma consume APIs, devolviendo la información de diversos libros con excelentes títitulos",
+        link: "https://jorgar.github.io/tiendalibros/",
+        imagen: "./img/libro.jpeg",
         Tecnologias: ["REACT,", "javaScript,", "HTML,", "CSS"]
     },
     {
@@ -42,24 +42,31 @@ const proyectos = [
         Tecnologias: ["javaScript,", "HTML,", "CSS"]
     },
     {
-        Titulo: "Contador de Clics",
-        Descripción: "Cuenta los clics, que el usuario realiza desde el mouse",
-        link: "https://jorgar.github.io/Clics-Contador/",
-        imagen: "./img/clics.png",
+        Titulo: "Pokémon API",
+        Descripción: "Conoce todos los Pokemones en la app, donde se consume una API desde la plataforma Pokéapi",
+        link: "https://jorgar.github.io/apipokemon/",
+        imagen: "./img/pika.webp",
         Tecnologias: ["REACT,", "javaScript,", "HTML,", "CSS"]
+    },
+    {
+        Titulo: "Tienda Virtual",
+        Descripción: "Compra diversos artículos de nuestra tienda en línea",
+        link: "https://jorgar.github.io/Tienda-virtual/",
+        imagen: "./img/tienaLinea.jpg",
+        Tecnologias: ["REACT,", "javaScript,", "VITE,", "HTML,", "CSS"]
     },
     {
         Titulo: "Lista de Tareas",
         Descripción: "Agenda de diferentes actividades que se desarrollan durante el día",
         link: "https://jorgar.github.io/Lista-tareas/",
-        imagen: "./img/listactividades.jpg",
+        imagen: "./img/tareas.jpg",
         Tecnologias: ["javaScript,", "HTML,", "CSS"]
     },
     {
         Titulo: "Curriculum Vitae",
-        Descripción: "Datos profesionales, acadamecos y personales",
+        Descripción: "Datos personales, profesionales y académicos. Más información en el botón 'ver proyecto'",
         link: "https://github.com/jorgar/tienda/blob/master/uploads/CURR%C3%8DCULUM%20VITAE%202025.2.pdf",
-        imagen: "./img/CV.jpg",
+        imagen: "./img/cv2.jpg",
         Tecnologias: ["Documento Profesional,"]
     }
 ];
@@ -86,7 +93,7 @@ const datosPersonales = {
         ["linkedin", "https://www.linkedin.com/in/jorge-hern%C3%A1ndez-2a095251/"],
         //["facebook", "https://www.facebook.com/Jorgehg26"],
         ["instagram", ""],
-        ["github", "https://github.com/jorgar"]
+        ["github", "https://github.com/jorgar?tab=repositories"]
     ],
 
 };
