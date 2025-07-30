@@ -44,7 +44,7 @@ const proyectos = [
     {
         Titulo: "Pokémon API",
         Descripción: "Conoce todos los Pokemones en la app, donde se consume una API desde la plataforma Pokéapi",
-        link: "https://jorgar.github.io/apipokemon/",
+        link: "https://jorgar.github.io/pokedex/",
         imagen: "./img/pika.webp",
         Tecnologias: ["REACT,", "javaScript,", "HTML,", "CSS"]
     },
